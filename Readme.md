@@ -1,8 +1,5 @@
-\# 🚀 Project Name
+![Project Banner](https://raw.githubusercontent.com/tousifkhanTK/My-work/main/Abrackett-AAA%20Spring%20Cleaning-1080x1080px-TRK-02-April-2025-1.png)
 
-
-
-!\[Project Banner](https://via.placeholder.com/1000x300.png?text=Your+Project+Banner)
 
 
 
